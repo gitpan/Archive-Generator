@@ -1,0 +1,9 @@
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Archive/Generator.pm
+t/01_main.t
+t/02_practical.t
+t/cover_db/cover.4
